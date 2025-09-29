@@ -1,0 +1,15 @@
+.container{
+        display: flex;
+        /* justify-content: center;
+        align-items: center； */
+}
+.item{
+    flex: 1;
+}
+h1{
+    color:#4800ff
+}
+p{
+    margin: 0px;
+    font: bold 100px/36px "標楷體";
+}
